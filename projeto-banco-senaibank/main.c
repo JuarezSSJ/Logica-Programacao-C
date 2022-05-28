@@ -6,7 +6,9 @@
 
 int main(int argc, char *argv[]) {
 	
+	opcao;
 	
+	printf("Manutenção %d",opcao);
 	
 	return 0;
 }
